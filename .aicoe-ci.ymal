@@ -1,0 +1,6 @@
+check: []
+package-upload:
+  - instance: pulp
+    pulp-index: gym-donkeycar
+    allow-sdist: true
+    allow-bdist: true
